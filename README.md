@@ -1,6 +1,3 @@
-# stockperfomanceandrisk_report
-Analysis of stock performance and risk using Python libraries. Report automation. Descriptive statistics
-
 # Performance and Risk Analysis of Daily Returns
 
 ## 📊 Project Description
@@ -11,17 +8,17 @@ This repository contains a Python script that performs a comprehensive performan
 
 The script generates a number of visualizations and metrics, including:
 
-* **Estadísticas Descriptivas:** Media, mediana, desviación estándar, asimetría (skewness) y curtosis.
-* **Distribución de Frecuencia:** Un histograma que muestra la distribución de los retornos diarios, superpuesto con una curva de densidad normal para una fácil comparación.
-* **Sharpe Ratio:** Cálculo del Sharpe Ratio para medir el rendimiento del activo ajustado por el riesgo, utilizando una tasa libre de riesgo adecuada.
+* **Descriptive Statistics:** Mean, median, standard deviation, skewness, and kurtosis.
+* **Frequency Distribution:** A histogram showing the distribution of daily returns, overlaid with a normal density curve for easy comparison.
+* **Sharpe Ratio:** Calculation of the Sharpe Ratio to measure risk-adjusted asset performance, using an appropriate risk-free rate.
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
 * **Python 3.x**
-* **Pandas:** Para el manejo y manipulación de datos de series de tiempo.
-* **NumPy:** Para cálculos numéricos eficientes.
-* **Matplotlib y Seaborn:** Para la creación de visualizaciones claras y profesionales.
-* **Jupyter Notebook:** El código está estructurado en un notebook para facilitar la exploración y la presentación de los resultados.
+* **Pandas:** For managing and manipulating time series data.
+* **NumPy:** For efficient numerical calculations.
+* **Matplotlib and Seaborn:** For creating clear and professional visualizations.
+* **Jupyter Notebook:** The code is structured in a notebook for easy exploration and presentation of results.
 
 ## 🚀 How to Use the Code
 
@@ -39,14 +36,15 @@ The script generates a number of visualizations and metrics, including:
 
 This project demonstrates my ability to::
 
-* Realizar análisis de datos financieros con Python.
-* Utilizar librerías de `data science` para cálculos estadísticos y visualización.
-* Interpretar métricas de riesgo y rendimiento (volatilidad, Sharpe Ratio, drawdowns).
-* Comunicar hallazgos complejos de manera clara a través de gráficos e informes.
-* Desarrollar soluciones de análisis de datos de extremo a extremo.
+* Perform financial data analysis with Python.
+* Use data science libraries for statistical calculations and visualization.
+* Interpret risk and return metrics (volatility, Sharpe Ratio, drawdowns).
+* Communicate complex findings clearly through charts and reports.
+* Develop end-to-end data analysis solutions.
 
+  
 ## 📧 Contact
 
-If you have any questions or suggestions, please do not hesitate to contact me via [linkedin Profile]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/carlosvillalbaaguilera/)).
+If you have any questions or suggestions, please do not hesitate to contact me via [linkedin Profile]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/carlosvillalbaaguilera/).
 ---
 _This project is part of my technical portfolio to showcase skills in data analysis and quantitative finance._
