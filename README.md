@@ -45,6 +45,5 @@ This project demonstrates my ability to::
   
 ## 📧 Contact
 
-If you have any questions or suggestions, please do not hesitate to contact me via [linkedin Profile]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/carlosvillalbaaguilera/).
----
+If you have any questions or suggestions, please do not hesitate to contact me via [Profile Link](https://www.linkedin.com/in/carlosvillalbaaguilera/) .     
 _This project is part of my technical portfolio to showcase skills in data analysis and quantitative finance._
